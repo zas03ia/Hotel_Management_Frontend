@@ -108,7 +108,7 @@ npm run test
 ├── services/
 │   └── api.ts
 ├── styles/
-│   └── globals.css
+│   └── styles.css
 ├── .env.local
 ├── package.json
 ├── README.md
