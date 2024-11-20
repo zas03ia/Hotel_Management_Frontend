@@ -1,7 +1,3 @@
-Here's a detailed **README.md** file for your project:
-
----
-
 # **Hotel Management**
 
 A comprehensive hotel management web application built with **Next.js**, leveraging modern libraries and tools like **TailwindCSS**, **Axios**, and **FontAwesome** to deliver a responsive and user-friendly experience.
